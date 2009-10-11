@@ -44,4 +44,12 @@ extensively.
 Author
 ------
 
-Mark Lodato <lodatom@gmail.com>
+`Mark Lodato`_ <lodatom@gmail.com>
+
+.. _Mark Lodato: http://marklodato.github.com
+
+
+License
+-------
+
+`MIT License <http://www.opensource.org/licenses/mit-license.php>`_
