@@ -11,7 +11,7 @@ import re
 def git_patch_to_hg(fin, fout):
     fout.write('# HG changeset patch\n')
 
-    subject_re = re.compile(r'^(RE:)?\s*(\[[^]]*\])?\])?\s*', re.I)
+    subject_re = re.compile(r'^(RE:)?\s*(\[[^]]*\])?\s*', re.I)
 
     # headers
     for line in fin:
